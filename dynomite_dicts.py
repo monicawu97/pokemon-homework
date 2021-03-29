@@ -1,5 +1,5 @@
 pokedex= {
-    'Venosaur': ['Grass', 'Poisen'],
+    'Venosaur': ['Grass', 'Poison'],
     'Charizard': ['Fire', 'Flying'],
     'Blastoise': ['Water']
 }
